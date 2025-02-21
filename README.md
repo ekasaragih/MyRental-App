@@ -18,7 +18,7 @@
 4. Run DB Migration
 
     - php artisan migrate
-    - php artisan db:seed
+    - php artisan db:seed (optional)
 
 5. Compile Frontend Assets
 
