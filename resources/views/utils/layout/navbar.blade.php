@@ -7,7 +7,7 @@
 
     .nav-glow {
         position: absolute;
-        bottom: -3px;
+        bottom: -4px;
         left: 0;
         height: 3px;
         width: 0;
